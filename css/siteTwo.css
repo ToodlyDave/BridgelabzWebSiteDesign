@@ -1,0 +1,11 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+img {
+    max-height: 28vh;
+    width: auto;
+    margin: 1vw;
+}

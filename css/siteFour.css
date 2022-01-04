@@ -1,0 +1,11 @@
+.container {
+    height: 30vh;
+    width: 50vw;
+    display: flex;
+    background-color: aquamarine;
+    padding: 2vw;
+}
+
+.text-container {
+    padding-left: 1vw;
+}

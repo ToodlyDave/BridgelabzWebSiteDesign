@@ -1,0 +1,35 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+card {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 5px rgb(128, 124, 124);
+    width: 25vw;
+    margin: 2vw;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+heading {
+    font-family: sans-serif;
+    font-size: 2em;
+}
+
+.content {
+    padding: 2vw;
+}
+
+button {
+    background-color: rgb(54, 54, 54);
+    color: white;
+    border: none;
+    height: 7vh;
+    width: 100%
+}
